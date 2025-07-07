@@ -3,3 +3,9 @@ Hey i am being edited from mac book not replit..!! Replit is not a great tool !!
 
 
 smaple  helo
+
+
+1. git checkout -b prithvi main 
+    git checkout -b new_branch base-branch 
+
+2. git push -u origin prithvi
