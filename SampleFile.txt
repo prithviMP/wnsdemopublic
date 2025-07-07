@@ -2,4 +2,4 @@ Hello I am demo file created for the purpose to show how to add a file , commit 
 Hey i am being edited from mac book not replit..!! Replit is not a great tool !! 
 
 
-smaple 
+smaple  helo
